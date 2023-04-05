@@ -63,6 +63,7 @@
 "banner_text":"",
 "player_packagename_backup":"com.player.matett",
 "player_link_backup":"",
+"force_download_player":true,
 "player_build_backup":"2",
 "enable_mobileads":true,
 "text_link":"http://real-debrid.com/?id=406806",
