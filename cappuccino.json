@@ -13,16 +13,16 @@
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<b>Release Info</b>
-<br>- Version: 2.0.2b</br>
+<br>- Version: 2.0.3b</br>
 <br>- Size: 11.7MB</br>
 <br>- Filesynced code: 10000365</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Fix bugs.</br>
 <br>- Add fspi, pvn providers.</br>",  
-"update_build":"102",  
-"update_version":"2.0.2b",  
-"update_link":"https://github.com/andydrone23453/dsweq/releases/download/2.0.2b/2.0.2b.apk",  
+"update_build":"103",  
+"update_version":"2.0.3b",  
+"update_link":"https://github.com/andydrone23453/dsweq/releases/download/2.0.3b/2.0.3b.apk,  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/d6gmze2c9ngphka/1.3.2.apk",
 "pkg_uninstall":"",  
 "pkg_uninstall_1_2_5":"com.nova.tv", 
