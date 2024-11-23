@@ -9,7 +9,7 @@
 "content_not_support_audio":"This movie has audio which is not supported by NovaTV, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://github.com/BeeApp11/tententen/releases/download/3.2.12/vlc3212.apk",  
-"update_isforce":true,  
+"update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<b>Release Info</b>
