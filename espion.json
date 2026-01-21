@@ -47,6 +47,7 @@
 "package_name_vibe":"vnm.oea.vibeplayer",
 "player_vibe_link":"https://github.com/awedsa256/vibe/releases/download/11/1.9vb.apk",
 "force_download_player_apk_tv":true,
+"package_name_player_update":"com.player.bear",
 "force_download_player_apk_phone":true,
 "force_download_player_apk_bear":false,
 "oneplayer_version_build":"22",
